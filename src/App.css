@@ -20,3 +20,58 @@
 .App-link {
   color: #09d3ac;
 }
+.mr-auto{
+  font-size: 15px;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: white;
+}
+.ml-auto{
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.Ca{
+  text-align: center;
+  background-color: white;
+  margin: 6%; 
+font-family: 'Courier New', Courier, monospace;
+opacity: '11';
+}
+.Br {
+  display: grid;
+  margin-top: 100px;
+  /* vertical-align: middle;
+  flex-direction: row;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  flex: 25%;
+  width: calc(100% / 3);
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 5vw);
+  grid-gap: 15px; */
+  float: left;
+  /* grid-template-columns: 1fr 1fr; */
+
+  margin-left: 25px;
+  /* margin-right: auto; */
+  grid-template-columns: 100px 50px 100px;
+  /* grid-template-rows: 80px auto 80px;  */
+  grid-gap: 15px 10px;
+}
+.pic{
+  width: 100px;
+  height: 400px;
+  
+}
+.Arr{
+  background-color: white;
+  
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: black !important
+}
+.Nouf{
+  background-color: black;
+  color:white;
+}
+
